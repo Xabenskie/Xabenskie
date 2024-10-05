@@ -6,7 +6,7 @@
 
 ### About Me
 
-Hi, I'm Kostya (Konstantin) - a passionate frontend developer with a love for creating innovative web experiences.
+Hi, I'm Kostya - a passionate frontend developer with a love for creating innovative web experiences.
 
 ---
 
