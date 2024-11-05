@@ -1,8 +1,4 @@
-# Xabenskie - Frontend Developer
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Xabenskie)](https://git.io/typing-svg)
-
----
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ACACAC&width=435&lines=Xabenskie+-+Frontend+Developer)](https://git.io/typing-svg)
 
 ### About Me
 
@@ -22,7 +18,6 @@ Hi, I'm Kostya - a student and frontend developer.
 | Redux       | 🔄          |
 | Next.js     | 🚀          |
 | Tailwind CSS| 🌊          |
-
 
 ---
 
