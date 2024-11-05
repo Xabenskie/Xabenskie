@@ -8,16 +8,18 @@ Hi, I'm Kostya - a student and frontend developer.
 
 ### My Tech Stack
 
-| Language    | Proficiency |
-|-------------|-------------|
-| JavaScript  | 🟡          |
-| HTML        | 🔤          |
-| CSS         | 🎨          |
-| SCSS        | 💅          |
-| React       | ⚛️          |
-| Redux       | 🔄          |
-| Next.js     | 🚀          |
-| Tailwind CSS| 🌊          |
+| Language      | Proficiency |
+|---------------|-------------|
+| JavaScript    | 🟡          |
+| HTML          | 🔤          |
+| CSS           | 🎨          |
+| SCSS          | 💅          |
+| React         | ⚛️          |
+| Redux         | 🔄          |
+| Next.js       | 🚀          |
+| Tailwind CSS  | 🌊          |
+| React Native  | 📱          |
+
 
 ---
 
