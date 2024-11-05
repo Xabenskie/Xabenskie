@@ -1,33 +1,36 @@
 # Xabenskie - Frontend Developer
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi,+I'm+Kostya)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Xabenskie)](https://git.io/typing-svg)
 
 ---
 
 ### About Me
 
-Hi, I'm Kostya - a passionate frontend developer with a love for creating innovative web experiences.
+Hi, I'm Kostya - a student and frontend developer.
 
 ---
 
 ### My Tech Stack
 
-| Language | Proficiency |
-|----------|--------------|
-| JavaScript | 💪💪💪 |
-| HTML/CSS | 🎨🖼️ |
-| React | 🚀 |
+| Language    | Proficiency |
+|-------------|-------------|
+| JavaScript  | 🟡          |
+| HTML        | 🔤          |
+| CSS         | 🎨          |
+| SCSS        | 💅          |
+| React       | ⚛️          |
+| Redux       | 🔄          |
+| Next.js     | 🚀          |
+| Tailwind CSS| 🌊          |
+
 
 ---
 
 ### GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Xabenskie&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xabenskie&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Xabenskie&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xabenskie&layout=compact&theme=radical)
 
 ---
-
 
 ### My Portfolio
 
@@ -37,7 +40,7 @@ Hi, I'm Kostya - a passionate frontend developer with a love for creating innova
 
 ### Contact Me
 
-Feel free to reach out to me at lukyanovkr@gmail.com or telegram @wedhhe
+Feel free to reach out to me at [lukyanovkr@gmail.com](mailto:lukyanovkr@gmail.com) or on Telegram [@wedhhe](https://t.me/wedhhe).
 
 ---
 
@@ -51,6 +54,3 @@ Feel free to reach out to me at lukyanovkr@gmail.com or telegram @wedhhe
 
 [![Contributions](https://img.shields.io/badge/contributions-100-orange.svg)]()
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=102)]()
-
----
-
