@@ -1,5 +1,7 @@
 # ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ACACAC&width=435&lines=Xabenskie+-+Frontend+Developer)
 
+---
+
 ### About Me
 
 Hi, I'm Kostya - a student and frontend developer.
@@ -8,18 +10,35 @@ Hi, I'm Kostya - a student and frontend developer.
 
 ### My Tech Stack
 
-| Language      | Proficiency |
-|---------------|-------------|
-| JavaScript    | 🟡          |
-| HTML          | 🔤          |
-| CSS           | 🎨          |
-| SCSS          | 💅          |
-| React         | ⚛️          |
-| Redux         | 🔄          |
-| Next.js       | 🚀          |
-| Tailwind CSS  | 🌊          |
-| React Native  | 📱          |
+#### Programming Languages
+| Language    | Proficiency |
+|-------------|-------------|
+| JavaScript  | 📜          |
+| TypeScript  | 🔷          |
 
+#### Markup & Style Languages
+| Language    | Proficiency |
+|-------------|-------------|
+| HTML        | 🔤          |
+| CSS         | 🎨          |
+| SCSS        | 💅          |
+
+#### Frameworks & Libraries
+| Framework/Library | Proficiency |
+|--------------------|-------------|
+| React              | ⚛️          |
+| Redux              | 🔄          |
+| Next.js            | 🚀          |
+| Tailwind CSS       | 🌊          |
+| React Native       | 📱          |
+
+#### Tools
+| Tool   | Proficiency |
+|--------|-------------|
+| Git    | 🛠️          |
+| npm    | 📦          |
+| Yarn   | 🧶          |
+| Bun    | 🍞          |
 
 ---
 
