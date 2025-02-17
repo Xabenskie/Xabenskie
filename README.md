@@ -11,26 +11,20 @@ Hi, I'm Kostya - a student and frontend developer.
 ### My Tech Stack
 
 #### Programming Languages
-- **JavaScript** 📜
-- **TypeScript** 🔷
+- **JavaScript** 
+- **TypeScript** 
 
 #### Markup & Style Languages
-- **HTML** 🔤
-- **CSS** 🎨
-- **SCSS** 💅
+- **HTML** 
+- **CSS** 
+- **SCSS** 
 
 #### Frameworks & Libraries
-- **React** ⚛️
-- **Redux** 🔄
-- **Next.js** 🚀
-- **Tailwind CSS** 🌊
-- **React Native** 📱
-
-#### Tools
-- **Git** 🛠️
-- **npm** 📦
-- **Yarn** 🧶
-- **Bun** 🍞
+- **React** 
+- **Redux** 
+- **Next.js** 
+- **Tailwind CSS** 
+- **React Native** 
 
 ---
 
