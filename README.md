@@ -36,7 +36,7 @@ Hi, I'm Kostya - a student and frontend developer.
 
 ### My Portfolio
 
-[![Portfolio Website](https://img.shields.io/badge/Website-xabenskie.github.io-blue)](https://xabenskie.github.io/portfolio/)
+[![Portfolio Website](https://img.shields.io/badge/Website-xabenskie.github.io-black)](https://portfolio-v2-rho-liard.vercel.app/)
 
 ---
 
