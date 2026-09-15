@@ -1,4 +1,4 @@
-# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ACACAC&width=435&lines=Xabenskie+-+Frontend+Developer/AI+Multiagent+Developer)
+# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ACACAC&width=500&lines=Xabenskie+-+Frontend+/+AI+Multiagent+Developer)
 
 ---
 
