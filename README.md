@@ -30,7 +30,10 @@ Hi, I'm Kostya - a student and frontend developer.
 
 ### GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Xabenskie&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xabenskie&layout=compact&theme=radical)
+<p>
+  <img src="https://github-stats-extended.vercel.app/api?username=Xabenskie&show_icons=true&theme=radical&hide_border=true" height="165" alt="GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Xabenskie&layout=compact&theme=radical&hide_border=true" height="165" alt="Top Languages" />
+</p>
 
 ---
 
