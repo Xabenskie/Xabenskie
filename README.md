@@ -1,4 +1,4 @@
-# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ACACAC&width=435&lines=Xabenskie+-+Frontend+Developer)
+# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ACACAC&width=435&lines=Xabenskie+-+Frontend+Developer/AI+Multiagent+Developer)
 
 ---
 
@@ -12,7 +12,8 @@ Hi, I'm Kostya - a student and frontend developer.
 
 #### Programming Languages
 - **JavaScript** 
-- **TypeScript** 
+- **TypeScript**
+- **Python**
 
 #### Markup & Style Languages
 - **HTML** 
